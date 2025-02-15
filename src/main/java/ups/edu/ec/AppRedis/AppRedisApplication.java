@@ -1,0 +1,13 @@
+package ups.edu.ec.AppRedis;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AppRedisApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AppRedisApplication.class, args);
+	}
+
+}
